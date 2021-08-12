@@ -6,8 +6,8 @@ Specifically, I was in charge of creating the following visualizations:
 + The distribution of the stock prices for the past year
 + Netflix's earnings and revenue in the last four quarters
 + The actual vs. estimated earnings per share for the four quarters in 2017
-+ A comparison of the Netflix Stock price vs the Dow Jones Industrial Average price in 2017 
-Then I was responsible for creating a slideshow presentation to present the information to the rest of the Netflix Stock Profile team.
++ A comparison of the Netflix Stock price vs the Dow Jones Industrial Average price in 2017 \
+Then I was responsible for creating a slideshow presentation to present the information to the rest of the Netflix Stock Profile team.\
 The project was developed for the Netflix Data Capstone Project, part of the Data Analyst Career Path in Codecademy.
 
 ## Project Objectives
@@ -27,7 +27,7 @@ The project was developed for the Netflix Data Capstone Project, part of the Dat
 - Jupyter Slideshow with RISE
 
 ## Setup
-To view the assignment and full code, open the netflix_visualizations.ipynb file.
+To view the assignment and full code, open the netflix_visualizations.ipynb file.\
 To view the completed slideshow, open the Netflix_Stocks_Visualizations_Presentation.ipynb file
 
 ## Status
