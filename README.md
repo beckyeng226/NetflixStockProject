@@ -1,4 +1,4 @@
-# Netflix Stock Capston Project
+# Netflix Stock Capstone Project
 The purpose of the assignment was to imagine I was a data visualization developer at Yahoo Finance helping the "Netflix Stock Profile" team visualize the Netflix stock data.
 ## General Information
 The assigned purpose of the project was to analyze, prepare, and plot data to help the financial analysts asses the risk of the Netflix stock.
